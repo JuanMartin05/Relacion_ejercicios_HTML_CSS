@@ -1,0 +1,20 @@
+<DOCTYPE html> 
+<html>
+    <title>
+    Ejercicio 02 relacion HTML
+    </title>
+    <body>
+        <h1>WORLD WIDE WEB</h1>
+        En la informática ,la <strong>World wide web</strong> (WWW) o
+        <span style="color: blue;">Red informática mundial</span>
+        comúnmente asociada como 
+        <u>la web</u>
+        , es un sistema de distribucion de documentos de hipertexto o hipermedio interconcetados y accesibles vía internet.Con un <strong>Navegador web</strong>
+        , un usuario analiza sitios web compuestos de páginas web que pueden contener texto, imágenes, vídeos u otros <i>contenido multimedia</i>, y navegar a través de esas paginas usando <span style="color: red;">hiperenlace</span>.
+        <p><h2>Historia</h2></p> 
+        La web se desarrolló <strong>entre marzo de 1989 y diciembre de 1990</strong> por el inglés <i>Tim Bernes-Lee</i> con la ayuda del belga <i>Robert Cailliau</i> mientras trabajan en el <strong><u>CERN en Ginebra,</u></strong> Suiza, y publicado en 1992.Bernes-Lee
+        <br>
+        <br>Desde entonces,<i>Bernes-Lee</i> a jugado un papelactivo guiando el desarrolló de estándares web  <span style="color: green;">(Como los lenguajes de marcado con los que se crean las páginas web)</span>, y los últimos años ha abogado por su vision de una web <strong><i><u>web semántica.</u></i></strong>
+        <br>
+        <br>Fuente: Wikipedia
+    </body>
