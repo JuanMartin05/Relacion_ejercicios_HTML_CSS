@@ -1,0 +1,45 @@
+<DOCTYPE html> 
+    <body>
+        <h1><span style="color: rgb(255, 0, 0);">DATOS TRABAJADORES</span></h1> <br>
+        <div style=background-color:gray;">
+        <hr>
+        <center><h2><span style="color: blue;">TRABAJADOR 1</span></h2></center> 
+        <div style="border: 2px solid black;"
+        <h3>Datos personales</h3>
+    <ul>
+    <li>Nombre: Gloria Martín Ruiz</li>
+    <li>Email:gmartin@empresa.com</li>
+    <li>Telefono: 666 22 55 88</li>
+    </div>
+    <div style="border: 5px double black;"
+    </ul>
+    <div>
+    <h3>Estudios</h3>
+    <ul>
+    <li>Bachillerato</li>
+    <li>Grado Superior Desarrollodo de aplicaiones web</li>
+    </ul>
+    </div>
+    </div>
+    </div>
+    <div style=background-color:gray;">
+    <hr>
+    <center><h2><span style="color: rgb(0, 255, 42);">TRABAJADOR 2</span></h2></center>
+    <div style="border: 2px solid black;"
+    <h3>Datos personales</h3>
+    <ul>
+    <li>Nombre: Alberto Pérez Martín</li>
+    <li>Email: aperez@empresa.com</li>
+    <li>Telefono: 622 11 88 99</li>
+    </div>
+    <div style="border: 5px double black;"
+    </ul>
+    <h3>Estudios</h3> 
+    <ul>
+    <li>Bachillerato</li>
+    <li>Grado Superior Desarrollo de Aplicaciones Multiplataforma</li>
+    </ul>
+    <br
+    </div>
+    </body> 
+    <html>
