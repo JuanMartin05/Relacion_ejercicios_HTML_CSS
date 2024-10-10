@@ -1,0 +1,28 @@
+<DOCTYPE html> 
+    <body>
+        <h1>DATOS TRABAJADORES</h1> <br><hr>
+        <br><h2>TRABAJADOR 1</h2> <h3>Datos personales</h3>
+        <div>
+        <br>Nombre: Gloria Martín Ruiz 
+        <br>
+        <br>Email:gmartin@empresa.com
+        <br>
+        <br>Telefono: 666 22 55 88 
+        <br>
+        <br><h3>Estudios</h3>
+        <br>Bachillerato
+        <br>
+        <br> Grado Superior Desarrollodo de aplicaiones web
+        </div> <hr>
+    </body> <h2>TRABAJADOR 2</h2> <h3>Datos personales</h3>
+    <br> Nombre: Alberto Pérez Martín
+    <br>
+    <br> Email: aperez@empresa.com
+    <br>
+    <br>Telefono: 622 11 88 99
+    <br>
+    <h3>Estudios</h3>
+    <br> Bachillerato
+    <br>
+    <br> Grado Superior Desarrollo de Aplicaciones Multiplataforma
+    <html>
