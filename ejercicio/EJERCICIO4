@@ -7,9 +7,9 @@
         <div style="border: 2px solid black;"
         <h3>Datos personales</h3>
     <ul>
-    <li>Nombre: Gloria Martín Ruiz</li>
-    <li>Email:gmartin@empresa.com</li>
-    <li>Telefono: 666 22 55 88</li>
+    <li><u>Nombre</u>: Gloria Martín Ruiz</li>
+    <li><u>Email</u>:gmartin@empresa.com</li>
+    <li><u>Telefono</u>: 666 22 55 88</li>
     </div>
     <div style="border: 5px double black;"
     </ul>
@@ -28,9 +28,9 @@
     <div style="border: 2px solid black;"
     <h3>Datos personales</h3>
     <ul>
-    <li>Nombre: Alberto Pérez Martín</li>
-    <li>Email: aperez@empresa.com</li>
-    <li>Telefono: 622 11 88 99</li>
+    <li><u>Nombre</u>: Alberto Pérez Martín</li>
+    <li><u>Email</u>: aperez@empresa.com</li>
+    <li><u>Telefono</u>: 622 11 88 99</li>
     </div>
     <div style="border: 5px double black;"
     </ul>
