@@ -1,0 +1,29 @@
+<DOCTYPE html>
+    <html>
+        <head>
+        <title>Ejercico numero 5</title>
+        </head>
+        <body style="background-color:lightgray;  font-family: arial, sans-serif; color: #333">
+<h1><span style="color: #003366;  font-size: 24px;">Ejemplo de uso de etiquetas de HTML</span></h1>
+<h2><span style="color: #006699;  font-size: 20px;">Blockquote y Q</span></h2>
+    
+    <blockquote style="color: #444; font-size: 18px; background-color:#e0f7fa;">"La imaginacion es mas importante que el conocimiento" </blockquote> 
+    
+    <p>Esta es una famosa cita de Albert Einstein , mencionada en <i><span style="color: #e60000;"> Wikiquote </span></i>:
+    <p>Como dijo él: <q style = color:#3d7b74;">La imaginación es mas importante que el conocimiento </q>.</p>
+
+    <h2><span style="color: #006699;  font-size: 20px;">Abbr</span></h2>
+    <p>La siglas de <abbr title="Lenguaje de marcas de hipertexto;"style ="color:#e60000;">HTML</abbr> significa Lenguaje de Marcas de Hipertexto
+    </p>
+    <h2><span style="color: #006699;  font-size: 20px;">Address</span></h2>
+    <Address style="font-size: 16px;background-color:#e0f7fa;">
+    Puedes contactarnos en: <br>
+    <a href="mailto:info@ejemplo.com;" style="color: #00796b">Info@ejemplo.com</a> <br>
+    Calle Falsa 123, Ciudad, País <br>
+    </Address>
+    <h2><span style="color: #006699;  font-size: 20px;">Bdo</span></h2>
+    
+    <p>Este texto se mostrara en orden normal:<bdo dir="ltr" style="color:#00796b;"</bdo> derecha a izquierda.</p>
+    <p>Este texto se mostrara en orden invertido:<bdo dir="rtl" style="color: #e60000;"</bdo>.derecha a izquierda </p>
+    </body>
+    </html>
